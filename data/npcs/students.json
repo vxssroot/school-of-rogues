@@ -1,0 +1,10 @@
+[
+  {
+    "id": "student_tunde",
+    "name": "Tunde",
+    "role": "Known Snitch",
+    "trust_level": 2,
+    "heat_contribution": 15,
+    "notes": "Talks too much. High risk of reporting minor infractions."
+  }
+]

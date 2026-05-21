@@ -1,0 +1,11 @@
+{
+  "npc_id": "tunde_snitch",
+  "npc_name": "Tunde",
+  "lines": [
+    {"speaker": "Tunde", "text": "I no see anything o. I just dey mind my business."}
+  ],
+  "choices": [
+    {"text": "We both know that's not true.", "next": "threaten"},
+    {"text": "Let's make a deal.", "next": "bribe_option"}
+  ]
+}

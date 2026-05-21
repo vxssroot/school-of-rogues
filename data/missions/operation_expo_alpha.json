@@ -1,0 +1,12 @@
+{
+  "id": "operation_expo_alpha",
+  "title": "Operation Expo Alpha",
+  "description": "High-risk covert operation involving senior students and restricted areas.",
+  "objectives": [
+    {"id": "infiltrate_block", "desc": "Reach the restricted classroom block undetected", "done": false},
+    {"id": "plant_evidence", "desc": "Plant or retrieve sensitive item", "done": false}
+  ],
+  "rewards": {"reputation": 25, "cash": 2000, "heat": 40},
+  "prerequisites": ["arrivals_and_arrangements"],
+  "status": "locked"
+}

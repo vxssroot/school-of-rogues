@@ -1,0 +1,10 @@
+[
+  {
+    "id": "teacher_mrs_ade",
+    "name": "Mrs. Adebayo",
+    "role": "Mathematics Teacher",
+    "strictness": 5,
+    "bribe_difficulty": 4,
+    "notes": "Focuses on academics. Can be reasoned with during free periods."
+  }
+]

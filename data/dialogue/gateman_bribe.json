@@ -1,0 +1,11 @@
+{
+  "npc_id": "gateman",
+  "npc_name": "Gateman",
+  "lines": [
+    {"speaker": "Gateman", "text": "Oga, you wan commot? School don close. You go need small something for gate."}
+  ],
+  "choices": [
+    {"text": "How much?", "next": "bribe_amount"},
+    {"text": "I have no money.", "next": "deny"}
+  ]
+}

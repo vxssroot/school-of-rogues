@@ -1,0 +1,10 @@
+{
+  "id": "ngozi_price_list",
+  "title": "Ngozi's Price List",
+  "description": "Madam Ngozi has goods and favors for the right price.",
+  "objectives": [
+    {"id": "obtain_list", "desc": "Acquire or memorize Ngozi's current price list", "done": false}
+  ],
+  "rewards": {"reputation": 5, "info": "ngozi_prices"},
+  "status": "available"
+}

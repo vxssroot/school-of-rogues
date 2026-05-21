@@ -1,0 +1,11 @@
+{
+  "id": "snitch_problem",
+  "title": "The Snitch Problem",
+  "description": "Tunde is talking too much. Neutralize the threat without getting caught.",
+  "objectives": [
+    {"id": "confront_tunde", "desc": "Have a private word with Tunde the Snitch", "done": false},
+    {"id": "ensure_silence", "desc": "Make sure he understands the consequences", "done": false}
+  ],
+  "rewards": {"reputation": -10, "heat": 25},
+  "status": "available"
+}

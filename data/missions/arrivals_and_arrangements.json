@@ -1,0 +1,11 @@
+{
+  "id": "arrivals_and_arrangements",
+  "title": "Arrivals and Arrangements",
+  "description": "Settle into hostel life and make initial contacts.",
+  "objectives": [
+    {"id": "locate_room", "desc": "Find and enter your assigned hostel room", "done": false},
+    {"id": "meet_duty_prefect", "desc": "Report to the prefect on duty", "done": false}
+  ],
+  "rewards": {"reputation": 10, "cash": 500},
+  "status": "available"
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "prefect_chinedu",
+    "name": "Chinedu",
+    "role": "Hostel Prefect",
+    "strictness": 8,
+    "bribe_difficulty": 7,
+    "heat_on_detection": 20,
+    "notes": "Very by-the-book. Avoid direct confrontation."
+  }
+]

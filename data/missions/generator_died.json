@@ -1,0 +1,11 @@
+{
+  "id": "generator_died",
+  "title": "Generator Died",
+  "description": "Power outage chaos. Lights out early, opportunities for mischief arise.",
+  "objectives": [
+    {"id": "investigate_blackout", "desc": "Investigate the generator shed", "done": false},
+    {"id": "secure_advantage", "desc": "Use the darkness to complete a side objective", "done": false}
+  ],
+  "rewards": {"reputation": -5, "cash": 300, "heat": 15},
+  "status": "locked"
+}

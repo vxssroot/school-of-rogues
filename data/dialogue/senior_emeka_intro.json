@@ -1,0 +1,9 @@
+{
+  "npc_id": "senior_emeka",
+  "npc_name": "Senior Emeka",
+  "lines": [
+    {"speaker": "Emeka", "text": "New fish in the pond. Keep your head down and your pockets open."},
+    {"speaker": "Emeka", "text": "Prefects here don't play. One wrong move and you're scrubbing toilets for a month."}
+  ],
+  "default_choice": "Understood."
+}

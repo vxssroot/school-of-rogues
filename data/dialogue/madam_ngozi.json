@@ -1,0 +1,10 @@
+{
+  "npc_id": "madam_ngozi",
+  "npc_name": "Madam Ngozi",
+  "lines": [
+    {"speaker": "Ngozi", "text": "My pikin, wetin you need? I get everything... for the right price."}
+  ],
+  "choices": [
+    {"text": "Show me what you have.", "action": "open_price_list"}
+  ]
+}
