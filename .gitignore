@@ -1,0 +1,45 @@
+# Godot 4+ specific ignores
+.godot/
+
+# Godot-specific
+.import/
+export.cfg
+export_presets.cfg
+
+# Exported files
+*.apk
+*.aab
+*.xapk
+*.zip
+*.tar.gz
+*.tgz
+*.tar.bz2
+*.tbz2
+*.tar.xz
+*.txz
+*.tar.lz
+*.tlz
+*.tar.zst
+*.tzst
+*.tar
+*.7z
+*.rar
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.app
+
+# Mono
+.mono/
+data_*/
+
+# Other common
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp

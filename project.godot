@@ -1,0 +1,27 @@
+; Engine configuration file.
+; It's best edited using the editor. All manual changes will be overwritten.
+
+[application]
+
+config/name="School of Rogues"
+config/description="A 2D Nigerian boarding school chaos game built in Godot 4."
+config/version="0.1.0-foundation"
+config/features=PackedStringArray("4.3", "Forward Plus")
+config/icon="res://icon.svg"
+
+[rendering]
+
+renderer/rendering_method="forward_plus"
+renderer/rendering_method.mobile="forward_plus"
+
+[autoload]
+
+GameManager="res://scripts/autoload/GameManager.gd"
+TimeSystem="res://scripts/autoload/TimeSystem.gd"
+ReputationSystem="res://scripts/autoload/ReputationSystem.gd"
+MissionSystem="res://scripts/autoload/MissionSystem.gd"
+DialogueSystem="res://scripts/autoload/DialogueSystem.gd"
+SaveSystem="res://scripts/autoload/SaveSystem.gd"
+PlayerData="res://scripts/autoload/PlayerData.gd"
+WorldState="res://scripts/autoload/WorldState.gd"
+AudioManager="res://scripts/autoload/AudioManager.gd"
